@@ -5,9 +5,9 @@ npm-debug.log
 yarn-error.log
 
 # Editor directories and files
+menu.json
 .idea
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
-*.json
